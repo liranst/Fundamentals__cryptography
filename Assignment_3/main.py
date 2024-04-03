@@ -1,4 +1,4 @@
-from dky_affine_cipher import *
+from auxiliary_functions import *
 incidences = "The frequency of the alphabet.csv"
 # Open the frequency table
 frequency_table = open_file_incidences(incidences)
